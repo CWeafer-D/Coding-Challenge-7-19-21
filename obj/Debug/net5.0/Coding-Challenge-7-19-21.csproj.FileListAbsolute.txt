@@ -1,0 +1,16 @@
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\bin\Debug\net5.0\Coding-Challenge-7-19-21.exe
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\bin\Debug\net5.0\Coding-Challenge-7-19-21.deps.json
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\bin\Debug\net5.0\Coding-Challenge-7-19-21.runtimeconfig.json
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\bin\Debug\net5.0\Coding-Challenge-7-19-21.runtimeconfig.dev.json
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\bin\Debug\net5.0\Coding-Challenge-7-19-21.dll
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\bin\Debug\net5.0\ref\Coding-Challenge-7-19-21.dll
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\bin\Debug\net5.0\Coding-Challenge-7-19-21.pdb
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\obj\Debug\net5.0\Coding-Challenge-7-19-21.csproj.AssemblyReference.cache
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\obj\Debug\net5.0\Coding-Challenge-7-19-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\obj\Debug\net5.0\Coding-Challenge-7-19-21.AssemblyInfoInputs.cache
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\obj\Debug\net5.0\Coding-Challenge-7-19-21.AssemblyInfo.cs
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\obj\Debug\net5.0\Coding-Challenge-7-19-21.csproj.CoreCompileInputs.cache
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\obj\Debug\net5.0\Coding-Challenge-7-19-21.dll
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\obj\Debug\net5.0\ref\Coding-Challenge-7-19-21.dll
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\obj\Debug\net5.0\Coding-Challenge-7-19-21.pdb
+C:\Users\Thall\Documents\VS_Code_Programs\Coding-Challenge-7-19-21\obj\Debug\net5.0\Coding-Challenge-7-19-21.genruntimeconfig.cache
