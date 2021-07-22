@@ -21,24 +21,21 @@ namespace Coding_Challenge_7_19_21{
         /// if the end of the array is reached(start = end) that permutation is printed
         /// </summary>
         /// <param name="a"></param>
-        /// <param name="start">Always = 0</param>
-        /// <param name="end">set to the array Length - 1</param>
-        public void FindPermuation(int[] a, int index)
+        /// <param name="Index">Always Starts = 0</param>
+        public void FindPermutation(int[] a, int index)
         {
             int length = a.Length-1;
             if(index == length)
             {
-                Console.Write("["); 
-                Console.Write(String.Join(",", a));
-                Console.Write("]\n");
+                PrintPermuation(a);
                 
             }
             else{
                 for (int i = index; i <= length; i++){
-                    exchange(ref a[index], ref a[i]);
-                    FindPermuation(a, index+1);
+                    Exchange(ref a[index], ref a[i]);
+                    FindPermutation(a, index+1);
                     //reset array
-                    exchange(ref a[index], ref a[i]);
+                    Exchange(ref a[index], ref a[i]);
                 }
             }
         }
@@ -48,16 +45,19 @@ namespace Coding_Challenge_7_19_21{
         /// </summary>
         /// <param name="a">a[index 1]</param>
         /// <param name="b">a[index 2]</param>
-        public void exchange(ref int a, ref int b)
+        public void Exchange(ref int first, ref int second)
         {
             int temp;
-            temp = a;
-            a = b;
-            b = temp;
+            temp = first;
+            first = second;
+            second = temp;
         }
 
-        
-        public void printPermuations(int[] permutation)
+        /// <summary>
+        /// Prints out an individual permutation
+        /// </summary>
+        /// <param name="permutation"></param>
+        public void PrintPermuation(int[] permutation)
         {
             Console.Write("["); 
             Console.Write(String.Join(",", permutation));
